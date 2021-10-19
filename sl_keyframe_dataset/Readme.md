@@ -16,7 +16,9 @@ The videos, along with their annotations are available from [here](https://drive
 
 If you use the Sign Language Keyframe Dataset, please cite the following paper:
 
+<p align="justify">
 Sartinas, E. G., Psarakis, E. Z., Antzakas, K., & Kosmopoulos, D. "A 2-D Wrist Motion Based Sign Language Video Summarization." 32nd British Machine Vision Virtual Conference (BMVC 2021), 2021.
+</p>
 
 ```
 @article{...,
