@@ -2,7 +2,9 @@
 
 ## Description
 
+<p align="justify">
 Sign Language Keyframe Dataset is composed by 32 videos of Greek SL of a total duration of 168 minutes containing approximately 5500 signs. Eight native signers performed four different scripts and captured from a Ximea camera with 60 fps. The scripts were realistic and concerned the scenario of interacting with a doctor via a video relay service using a vocabulary of 387 glosses. The videos contain continuous SL sentences that were manually annotated in gloss level by using the ELAN tool. In addition, the dataset was annotated by four experts in Greek SL who selected the least amount of keyframes for each gloss in order to be fully understandable. The least amount of keyframes for each gloss had a median of two (2) and ranged between [1, 10]. 
+</p>
 
 ## Download
 
