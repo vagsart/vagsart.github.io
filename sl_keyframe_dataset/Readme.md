@@ -10,7 +10,6 @@ Sign Language Keyframe Dataset is composed by 32 videos of Greek SL of a total d
 
 The videos, along with their annotations are available from [here](https://drive.google.com/drive/folders/13jYEfc1_3Mf7dfyS7T7-kGN4hHAHN4O3?usp=sharing).
 
-## Results
 
 ## Citation
 
@@ -21,14 +20,12 @@ Sartinas, E. G., Psarakis, E. Z., Antzakas, K., & Kosmopoulos, D. "A 2-D Wrist M
 </p>
 
 ```
-@article{...,
+@article{sartinas20212,
   title = {A 2-D Wrist Motion Based Sign Language Video Summarization},
-  author = {Sartinas, Evangelos G and Psarakis, Emmanouil Z and Antzakas, Klimis and Kosmopoulos, Dimitrios},
+  author={Sartinas, Evangelos G and Psarakis, Emmanouil Z and Antzakas, Klimis and Kosmopoulos, Dimitrios I},
   booktitle={32nd British Machine Vision Virtual Conference (BMVC 2021)},
   year={2021}
 }
 ```
-
-## License
 
 ​	
